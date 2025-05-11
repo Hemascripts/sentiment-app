@@ -29,5 +29,5 @@ This is a simple web application built with Streamlit that performs sentiment an
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/SentimentApp.git
+   git clone https://github.com/hemascripts/SentimentApp.git
    cd SentimentApp
